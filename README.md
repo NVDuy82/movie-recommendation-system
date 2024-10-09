@@ -8,7 +8,7 @@ Dự án này là một hệ thống gợi ý phim được xây dựng bằng P
 - Tính toán độ lớn của các embedding và bias cho phim.
 - Sử dụng t-SNE để giảm chiều dữ liệu và hiển thị trực quan các embedding.
 - Tìm kiếm các phim tương tự dựa trên tên phim.
-- Đánh giá chất lượng gợi ý thông qua số lượng gợi ý tốt và xấu.
+- Đánh giá chất lượng gợi ý thông qua số lượng gợi ý tốt và xấu (HR@K).
 
 ## Cài Đặt
 Để cài đặt và chạy dự án, bạn cần có Python 3.6 trở lên. Hãy đảm bảo rằng bạn đã cài đặt các thư viện cần thiết trước khi tiếp tục.
